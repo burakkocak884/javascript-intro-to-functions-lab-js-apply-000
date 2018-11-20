@@ -15,11 +15,11 @@ function sayHiToGrandma(string){
   var  lowercase = "hello"
   var uppercase = "HELLO"
 
-if(string = lowercase){
+if(string === lowercase){
    return "I can't hear you!"
-}else if(string = uppercase){
+}else if(string === uppercase){
    return "YES INDEED!"
- }else if(string = "I love you, Grandma."){
+ }else if(string === "I love you, Grandma."){
 return "I Love You, too."
 }
 }
