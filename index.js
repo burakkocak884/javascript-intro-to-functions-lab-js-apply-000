@@ -15,12 +15,12 @@ function sayHiToGrandma(string){
 if(sayHiToGrandma = "hello"){
   return ("I can't hear you!")
 }
-}
+
 function sayHiToGrandma(string){
  if (sayHiToGrandma = "HELLO"){
   return ("YES INDEED!")
 }
-}
+
 function sayHiToGrandma(string){
  if (sayHiToGrandma = "I love you"){
   return ("I Love You, too.")
