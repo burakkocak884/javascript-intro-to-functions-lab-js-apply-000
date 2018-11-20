@@ -16,7 +16,7 @@ if(sayHiToGrandma = "hello"){
    return ("I can't hear you!")
 }else if(sayHiToGrandma = "HELLO"){
    return ("YES INDEED!")
-}else if (sayHiToGrandma = "I love you"){
+}else if (sayHiToGrandma = "I love you, Grandma."){
 return ("I Love You, too.")
 }
 }
