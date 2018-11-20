@@ -19,6 +19,6 @@ if(string === "hello" ){
 }else if(string === "HELLO"){
    return "YES INDEED!"
  }else if(string === "I love you, Grandma."){
-return "I Love You, too."
+return "I love You, too."
 }
 }
