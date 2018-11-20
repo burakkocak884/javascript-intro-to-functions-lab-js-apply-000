@@ -12,13 +12,19 @@ console.log(string.toLowerCase())
 
 }
 function sayHiToGrandma(string){
+  function sayHiToGrandma(string){
 if(sayHiToGrandma = "hello"){
    return ("I can't hear you!")
-
-}else if(sayHiToGrandma = "HELLO"){
+}
+}
+function sayHiToGrandma(string){
+ if(sayHiToGrandma = "HELLO"){
    return ("YES INDEED!")
-}else if (sayHiToGrandma = "I love you, Grandma."){
+}
+}
+function sayHiToGrandma(string){
+  if(sayHiToGrandma = "I love you, Grandma."){
 return ("I Love You, too.")
-break;
+}
 }
 }
