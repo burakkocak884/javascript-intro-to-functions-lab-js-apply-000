@@ -13,7 +13,7 @@ console.log(string.toLowerCase())
 }
 function sayHiToGrandma(string){
 if(sayHiToGrandma = "hello"){
-   ("I can't hear you!")
+   return ("I can't hear you!")
 }else if(sayHiToGrandma = "HELLO"){
    ("YES INDEED!")
 }else if (sayHiToGrandma = "I love you"){
