@@ -12,8 +12,8 @@ console.log(string.toLowerCase())
 
 }
 function sayHiToGrandma(string){
-if(sayHiToGrandma(string) = "hello"){
-  return string("I can't hear you")
+if(string = "hello"){
+  return string = new string("I cant hear you")
 } else if (string = "HELLO"){
   return string("YES INDEED!")
 }else if( string = " I love you"){
