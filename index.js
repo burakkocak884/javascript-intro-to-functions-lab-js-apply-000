@@ -12,11 +12,11 @@ console.log(string.toLowerCase())
 
 }
 function sayHiToGrandma(string){
-if(string = string.toLowerCase){
-  return string.toEqual("I can't hear you")
-} else if (string = string.toUpperCase){
+if(string = "hello"){
+  return string("I can't hear you")
+} else if (string = "HELLO"){
   return string("YES INDEED!")
-}else {
+}else if( string = " I love you"){
   return string("I Love You too.")
 }
 }
